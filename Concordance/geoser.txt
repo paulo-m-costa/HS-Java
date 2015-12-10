@@ -1,0 +1,8 @@
+In mathematics, a geometric series is a series with a constant ratio between successive terms. For example, the seriesis geometric, because each successive term can be obtained by multiplying the previous term by 1 / 2.
+Geometric series are one of the simplest examples of infinite series with finite sums, although not all of them have this property. Historically, geometric series played an important role in the early development of calculus, and they continue to be central in the study of convergence of series. Geometric series are used throughout mathematics, and they have important applications in physics, engineering, biology, economics, computer science, queueing theory, and finance.
+The terms of a geometric series form a geometric progression, meaning that the ratio of successive terms in the series is constant. The following table shows several geometric series with different common ratios:
+The behavior of the terms depends on the common ratio r:
+If r is between -1 and +1, the terms of the series become smaller and smaller, approaching zero in the limit and the series converges to a sum. In the case above, where r is one half, the series has the sum one.
+If r is greater than one or less than minus one the terms of the series become larger and larger in magnitude. The sum of the terms also gets larger and larger, and the series has no sum. (The series diverges.)
+If r is equal to one, all of the terms of the series are the same. The series diverges.
+If r is minus one the terms take two values alternately (e.g. 2, -2, 2, -2, 2,... ). The sum of the terms oscillates between two values (e.g. 2, 0, 2, 0, 2,... ). This is a different type of divergence and again the series has no sum. See for example Grandi's series: 1 - 1 + 1 - 1 + ···.
